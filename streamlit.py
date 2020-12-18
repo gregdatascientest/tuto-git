@@ -4,7 +4,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
-st.title('Linear Regression demo')
+st.title('Linear Regression demo - Modified')
 
 st.sidebar.title('Setting')
 st.sidebar.header('x settings')
